@@ -7,11 +7,11 @@
 3. [《Apple TV标记语言参考》戴维营版](https://github.com/DiveinEdu/Apple-TV-Markup-Language-Reference-in-Chinese)
 
 
-#外文博客翻译资料
+####外文博客翻译资料
 1. [为 Apple TV 开发 tvOS App Part 1](http://swift.gg/2015/09/14/developing-tvos-apps-for-apple-tv-with-swift/)
 2. [为 Apple TV 开发 tvOS App Part 2](http://swift.gg/2015/09/15/developing-tvos-apps-for-apple-tv-part-2/)
 
-#外文博客原文
+####外文博客原文
 1. [Developing tvOS Apps for Apple TV [Part 1]](http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-with-swift/)
 2. [Developing tvOS Apps for Apple TV [Part 2]](http://swift.gg/2015/09/15/developing-tvos-apps-for-apple-tv-part-2/)
 3. [tvOS SDK: An iOS Developer’s Initial Impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
