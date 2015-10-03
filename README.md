@@ -1,6 +1,10 @@
 # tvOS-Guide
 本文档收集了最多的tvOS开发资料，方便学习使用。欢迎大家Pull Request提交资料。
 
+####欢迎大家帮忙翻译校正或者提供更好的Apple TV开发资料。
+####交流群：85157830（AppleTV开发梦工厂）
+####问答网站：[潜心俱乐部](http://divein.club)
+
 ####官方文档翻译资料
 1. [《tvOS应用开发指南》戴维营翻译版](https://github.com/DiveinEdu/App-Programming-Guide-for-tvOS)
 2. [《Apple TV 人机界面指南》百度MUX翻译版](http://mux.baidu.com/?p=1000189)
