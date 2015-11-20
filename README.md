@@ -26,6 +26,11 @@
 8. [tvOS App Programming with Swift – First Glance and Hello World app](http://www.appshocker.com/tvos-app-programming-with-swift-first-glance-hello-world-app/)
 9. [Playing video in an Apple TV App with tvOS in Swift](http://martinnormark.com/playing-video-on-apple-tv-with-tvos/)
 10. [Swift and Metal GPU programming on tvOS for the new Apple TV](http://memkite.com/blog/2015/09/09/swift-and-metal-gpu-programming-on-tvos-for-the-new-apple-tv/)
+11. [Apple TV tvOS hello world app in Swift](http://www.rockhoppertech.com/blog/apple-tv-tvos-hello-world-app-in-swift/#gettingStarted)
+12. [How to Create Apple TV’s Parallax Effect](https://www.simononstartups.com/how-to-create-apple-tvs-parallax-effect/)
+13. [Mastering the tvOS Focus Engine](http://nerds.airbnb.com/tvos-focus-engine/)
+14. [Develop Client-Server App for Apple TV](http://pragma.tv/tutorial/2015/09/11/Client-Server-App-On-Apple-TV.html)
+15. [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 
 ####英文视频教程
 1. [Top Shelf API - Video Tutorial](http://www.madeupbypeople.com/blog/2015/9/9/tvos-tutorial-make-apple-tv-apps)
