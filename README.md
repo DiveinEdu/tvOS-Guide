@@ -25,4 +25,11 @@
 7. [Coding for the Big Screen with the Apple TVOS SDK](http://www.sitepoint.com/coding-for-the-big-screen-with-the-apple-tvos-sdk/)
 8. [tvOS App Programming with Swift – First Glance and Hello World app](http://www.appshocker.com/tvos-app-programming-with-swift-first-glance-hello-world-app/)
 9. [Playing video in an Apple TV App with tvOS in Swift](http://martinnormark.com/playing-video-on-apple-tv-with-tvos/)
-10. 
+10. [Swift and Metal GPU programming on tvOS for the new Apple TV](http://memkite.com/blog/2015/09/09/swift-and-metal-gpu-programming-on-tvos-for-the-new-apple-tv/)
+
+####英文视频教程
+1. [Top Shelf API - Video Tutorial](http://www.madeupbypeople.com/blog/2015/9/9/tvos-tutorial-make-apple-tv-apps)
+
+####中文视频教程
+
+
