@@ -32,6 +32,9 @@
 14. [Develop Client-Server App for Apple TV](http://pragma.tv/tutorial/2015/09/11/Client-Server-App-On-Apple-TV.html)
 15. [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 
+####其它文章
+1. [Apple TV: A World Without Webviews](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.qh7eztfjn)
+
 ####英文视频教程
 1. [Top Shelf API - Video Tutorial](http://www.madeupbypeople.com/blog/2015/9/9/tvos-tutorial-make-apple-tv-apps)
 
